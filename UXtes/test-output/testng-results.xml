@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9655" started-at="2013-12-02T13:09:19Z" finished-at="2013-12-02T13:09:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9655" started-at="2013-12-02T13:09:19Z" finished-at="2013-12-02T13:09:28Z">
+      <class name="tests.LeadsViewTests">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:tests.LeadsViewTests@209444d1]" name="setUpSuite" is-config="true" duration-ms="9985" started-at="2013-12-02T14:09:09Z" finished-at="2013-12-02T14:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:tests.LeadsViewTests@209444d1]" name="setUpMethod" is-config="true" duration-ms="9637" started-at="2013-12-02T14:09:19Z" finished-at="2013-12-02T14:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="dummyTest()[pri:0, instance:tests.LeadsViewTests@209444d1]" name="dummyTest" duration-ms="5" started-at="2013-12-02T14:09:28Z" finished-at="2013-12-02T14:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummyTest -->
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:tests.LeadsViewTests@209444d1]" name="tearDownSuite" is-config="true" duration-ms="88" started-at="2013-12-02T14:09:28Z" finished-at="2013-12-02T14:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- tests.LeadsViewTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

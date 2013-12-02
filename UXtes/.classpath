@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/strus/Documents/SeleniumDrivers/selenium-server-standalone-2.37.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/aopalliance.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-grapher-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-jmx-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-jndi-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-persist-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-spring-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-struts2-plugin-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/guice-throwingproviders-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/strus/Downloads/guice-3.0/javax.inject.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/strus/eclipse/plugins/org.testng.eclipse_6.8.6.20130914_0724/lib/testng.jar" sourcepath="/Users/strus/eclipse/plugins/org.testng.eclipse_6.8.6.20130914_0724/lib/testng-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
